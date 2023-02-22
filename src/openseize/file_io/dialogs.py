@@ -117,7 +117,7 @@ class _Matcher:
     """
 
     def __init__(self, titles, **options):
-        """Intialize this matcher with the title of each dialog and the
+        """Initialize this matcher with the title of each dialog and the
         dialog box options.
 
         Args:
